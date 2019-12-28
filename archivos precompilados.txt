@@ -1,0 +1,2 @@
+borrar el contenido de 
+C:\Users\Germán\Source\repos\Udemy_Curso_C\.vs\Udemy_Curso_C\v16\ipch\AutoPCH
