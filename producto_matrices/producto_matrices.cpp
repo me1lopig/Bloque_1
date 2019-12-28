@@ -1,5 +1,6 @@
 // producto_matrices.cpp 
 // programa para el calculo de matrices enteras de 3x3
+// es posible adaptarlo a otras dimensiones
 //
 
 #include <iostream>
